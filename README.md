@@ -7,6 +7,7 @@
 ##Thực hiện:
 1, Tìm hiểu sơ lược trang web và tìm cách phân biệt trang thông tin sản phẩm và các loại trang khác
 + Nhận thấy chỉ các trang thông tin chi tiết về sản phẩm mới có thẻ **meta** có **name="pageType" content="productPage"**. 
+
 ![](./Image/1.png)
 + Thêm điều kiện ràng buộc chỉ lấy thông tin của những trang có thẻ trên.
 ![](./Image/2.png)
